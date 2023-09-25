@@ -1,4 +1,4 @@
-## Oi eu sou Leonardo Silva Brentnao, estudante de programação e tecnologia!
+Eu sou o Leonardo Brentano, estudante de programação :)
 
 
   ##
